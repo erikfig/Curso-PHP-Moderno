@@ -29,63 +29,63 @@ Importante: O aluno deverá trazer seu próprio notebook e carregador.
 
 ### Preparação
 
-O que é Orientação a Objetos?
-Ambiente de desenvolvimento
-Instalando o PHP 5.6
-Servidor embutido do PHP
-Guia de estilo de código
+ - O que é Orientação a Objetos?
+ - Ambiente de desenvolvimento
+ - Instalando o PHP 5.6
+ - Servidor embutido do PHP
+ - Guia de estilo de código
 
 ### O que são as PSRs
-PSR-0 vs PSR-4
-PSR-1
-PSR-2
-Gerenciamento de dependências
+ - PSR-0 vs PSR-4
+ - PSR-1
+ - PSR-2
+ - Gerenciamento de dependências
 
 ### O que é o Composer
-Criando um projeto com o Composer
-Gerenciando dependências
-Testes
+ - Criando um projeto com o Composer
+ - Gerenciando dependências
+ - Testes
 
 ### O que é o TDD
-Carregando o PHPUnit com Composer
-Configurando o PHPUnit
-Objetos, o básico
+ - Carregando o PHPUnit com Composer
+ - Configurando o PHPUnit
+ - Objetos, o básico
 
 ### Classes, funções e variáveis
-Construtores e destrutores
-Herança e traits
-Visibilidade
-Associação de objetos
-Polimorfismo
-Abstração
-Interfaces
-Classes finais
-SOLID
+ - Construtores e destrutores
+ - Herança e traits
+ - Visibilidade
+ - Associação de objetos
+ - Polimorfismo
+ - Abstração
+ - Interfaces
+ - Classes finais
+ - SOLID
 
 ### Single Responsabilitiy
-Open/Close Principle (OCP)
-Liskov Substituition
-Interface Segregation
-Dependency Inversion
-MVC
+ - Open/Close Principle (OCP)
+ - Liskov Substituition
+ - Interface Segregation
+ - Dependency Inversion
+ - MVC
 
 ### Rotas
-Model
-View
-Controller
-Vagrant
+ - Model
+ - View
+ - Controller
+ - Vagrant
 
 ### O que é Vagrant
-Como instalar o Vagrant
-O que é provisionamento
-Provisionando instalações
-PHP 7
+ - Como instalar o Vagrant
+ - O que é provisionamento
+ - Provisionando instalações
+ - PHP 7
 
 ### Instalando o box com PHP 7
-Testando na prática os novos recursos
-Deploy
+ - Testando na prática os novos recursos
 
-### Colocando sua aplicação disponível na internet com Git
+###Deploy
+ - Colocando sua aplicação disponível na internet com Git
 
 
 ## Mais informações
