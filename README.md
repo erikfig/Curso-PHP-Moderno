@@ -60,16 +60,16 @@ Importante: O aluno deverá trazer seu próprio notebook e carregador.
  - Abstração
  - Interfaces
  - Classes finais
- - SOLID
 
-### Single Responsabilitiy
+### SOLID
+ - Single Responsabilitiy
  - Open/Close Principle (OCP)
  - Liskov Substituition
  - Interface Segregation
  - Dependency Inversion
- - MVC
 
-### Rotas
+### MVC
+ - Rotas
  - Model
  - View
  - Controller
